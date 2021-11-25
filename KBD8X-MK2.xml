@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <export version="D">
   <design>
-    <source>X:\Keyboards\KBD8X MkII\KBD8X-MKII-PCB-Alps\KBD8X-MK2.sch</source>
-    <date>11/24/2021 9:00:33 PM</date>
+    <source>X:\Keyboards\KBD8X-MkII\KBD8X-MKII-PCB-Alps\KBD8X-MK2.sch</source>
+    <date>11/24/2021 9:04:22 PM</date>
     <tool>Eeschema (5.1.8)-1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -2833,22 +2833,22 @@
       <uri>C:\Program Files\KiCad\share\kicad\library/Device.lib</uri>
     </library>
     <library logical="KBD8X-MK2-rescue">
-      <uri>X:\Keyboards\KBD8X MkII\KBD8X-MKII-PCB-Alps/KBD8X-MK2-rescue.lib</uri>
+      <uri>X:\Keyboards\KBD8X-MkII\KBD8X-MKII-PCB-Alps/KBD8X-MK2-rescue.lib</uri>
     </library>
     <library logical="LED">
       <uri>C:\Program Files\KiCad\share\kicad\library/LED.lib</uri>
     </library>
     <library logical="MX_Alps_Hybrids">
-      <uri>X:\Keyboards\KBD8X MkII\KBD8X-MKII-PCB-Alps/MX_Alps_Hybrid.pretty/Schematic Library/MX_Alps_Hybrids.lib</uri>
+      <uri>X:\Keyboards\KBD8X-MkII\KBD8X-MKII-PCB-Alps/MX_Alps_Hybrid.pretty/Schematic Library/MX_Alps_Hybrids.lib</uri>
     </library>
     <library logical="Switch">
       <uri>C:\Program Files\KiCad\share\kicad\library/Switch.lib</uri>
     </library>
     <library logical="Type-C">
-      <uri>X:\Keyboards\KBD8X MkII\KBD8X-MKII-PCB-Alps/Type-C.pretty/Type-C.lib</uri>
+      <uri>X:\Keyboards\KBD8X-MkII\KBD8X-MKII-PCB-Alps/Type-C.pretty/Type-C.lib</uri>
     </library>
     <library logical="ai03-locallib">
-      <uri>X:\Keyboards\KBD8X MkII\KBD8X-MKII-PCB-Alps/locallib.pretty/schema/ai03-locallib.lib</uri>
+      <uri>X:\Keyboards\KBD8X-MkII\KBD8X-MKII-PCB-Alps/locallib.pretty/schema/ai03-locallib.lib</uri>
     </library>
   </libraries>
   <nets>
