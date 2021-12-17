@@ -622,8 +622,8 @@ L KBD8X-MK2-rescue:ATmega32U4-MU-MCU_Microchip_ATmega U1
 U 1 1 618B6D6D
 P 4800 5050
 F 0 "U1" H 4800 3164 50  0000 C CNN
-F 1 "ATmega32U4-MU" H 4800 3073 50  0000 C CNN
-F 2 "locallib:QFN-44-1EP_7x7mm_Pitch0.5mm" H 4800 5050 50  0001 C CIN
+F 1 "ATmega32U4-AU" H 4800 3073 50  0000 C CNN
+F 2 "Package_QFP:TQFP-44_10x10mm_P0.8mm" H 4800 5050 50  0001 C CIN
 F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf" H 4800 5050 50  0001 C CNN
 	1    4800 5050
 	1    0    0    -1  
