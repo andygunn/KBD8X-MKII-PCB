@@ -7,4 +7,4 @@ This is the source for the PCB used in the [KBD8X MKII by KBDfans](https://kbdfa
 
 Please verify the conditions of the [license](https://github.com/ai03-2725/KBD8X-MKII-PCB/blob/master/LICENSE) before using.
 
-![render](https://github.com/andygunn/KBD8X-MKII-PCB-Alps-Compat/master/KBD8X-MK2-Alps-3D-render.png)
+![render](https://github.com/andygunn/KBD8X-MKII-PCB-Alps-Compat/KBD8X-MK2-Alps-3D-render.png)
