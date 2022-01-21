@@ -2644,8 +2644,6 @@ Wire Wire Line
 Wire Wire Line
 	12925 4275 12850 4275
 Wire Wire Line
-	4225 4900 4850 4900
-Wire Wire Line
 	4800 4950 4725 4950
 Wire Wire Line
 	5550 4900 5475 4900
@@ -2759,7 +2757,6 @@ Wire Wire Line
 	12975 4900 13050 4900
 Wire Wire Line
 	12850 4950 12925 4950
-Connection ~ 5000 4750
 Connection ~ 4950 3450
 Connection ~ 4950 4125
 Connection ~ 4950 4800
@@ -2982,22 +2979,6 @@ Wire Wire Line
 	12425 5925 12425 5775
 Wire Wire Line
 	4925 6600 4925 6450
-Wire Wire Line
-	4650 4750 5000 4750
-Wire Wire Line
-	4650 4750 4650 4950
-Wire Wire Line
-	4650 4950 4175 4950
-Wire Wire Line
-	4725 4950 4725 4800
-Wire Wire Line
-	4725 4800 4525 4800
-Wire Wire Line
-	4525 4800 4525 4750
-Wire Wire Line
-	4525 4750 4375 4750
-Wire Wire Line
-	4325 4800 4500 4800
 Wire Wire Line
 	4500 4800 4500 4825
 Wire Wire Line
@@ -4334,7 +4315,6 @@ Wire Wire Line
 	3800 6600 3800 5925
 Connection ~ 4925 6600
 Connection ~ 3800 5925
-Connection ~ 4725 4950
 Connection ~ 4850 6250
 Wire Wire Line
 	5475 6250 5475 6925
@@ -5432,4 +5412,31 @@ Wire Wire Line
 Wire Wire Line
 	12850 6575 16100 6575
 Connection ~ 12850 6575
+Wire Wire Line
+	4225 4900 4850 4900
+Wire Wire Line
+	4085 4750 4375 4750
+Wire Wire Line
+	4325 4800 4500 4800
+Wire Wire Line
+	4375 4750 5000 4750
+Connection ~ 4375 4750
+Connection ~ 5000 4750
+$Comp
+L MX_Alps_Hybrids:MX-1.5U SW_CLOCK3800
+U 1 1 62434DCA
+P 3910 4775
+F 0 "SW_CLOCK3800" H 3910 4900 60  0000 C CNN
+F 1 "1.5U" H 3910 4825 20  0000 C CNN
+F 2 "MX_Alps_Hybrid:ALPS-1.5U" H 3885 4750 60  0001 C CNN
+F 3 "" H 3885 4750 60  0001 C CNN
+	1    3910 4775
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3885 4950 4175 4950
+Wire Wire Line
+	4175 4950 4725 4950
+Connection ~ 4175 4950
+Connection ~ 4725 4950
 $EndSCHEMATC
