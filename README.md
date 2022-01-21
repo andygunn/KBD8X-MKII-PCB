@@ -10,4 +10,4 @@ Note that this PCB is offered as-is with NO WARRANTY. If you produce it, you may
 
 Please verify the conditions of the [license](https://github.com/ai03-2725/KBD8X-MKII-PCB/blob/master/LICENSE) before using.
 
-![render](https://raw.githubusercontent.com/ai03-2725/KBD8X-MKII-PCB/master/KBD8X-MK2-Alps-3D-render.png)
+![render](https://raw.githubusercontent.com/andygunn/KBD8X-MKII-PCB-Alps-Compat/master/KBD8X-MKII-Alps-3D-render.png)
